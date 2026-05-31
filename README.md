@@ -63,17 +63,7 @@ This app uses the [Anthropic Claude API](https://console.anthropic.com/). The AP
 
 If you fork this project and want to use your own key, replace the fetch headers in `index.html` with your own `x-api-key`.
 
----
 
-## 📸 Screenshots
-
-> Add screenshots of your app here after deployment!
-
----
-
-## 🙌 Author
-
-Made with ❤️ using Claude AI
 
 ---
 
