@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎯 AI Mock Interviewer
 
 An adaptive, full-stack AI interview platform designed to help job candidates practice real-time technical and behavioral interviews. Powered by **Python Flask**, **Groq's high-speed LLM engine**, and a modern **Glassmorphism UI** with integrated **Voice-to-Text speech recognition**.
@@ -189,3 +190,6 @@ http://127.0.0.1:5000
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE) — free to use, modify, and distribute.
+=======
+# AI-INTERVIEW
+>>>>>>> 3c3803888cec0c09f97f7e7b3bd25fd9514cd686
